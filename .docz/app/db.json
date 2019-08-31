@@ -1,0 +1,42 @@
+{
+  "config": {
+    "title": "Dev Book Club",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {
+    "haskell.mdx": {
+      "name": "Haskell",
+      "route": "/",
+      "order": 1,
+      "id": "ea495766efcc5010cdfff595d3186996",
+      "filepath": "haskell.mdx",
+      "link": null,
+      "slug": "haskell",
+      "menu": null,
+      "headings": [
+        {
+          "depth": 2,
+          "slug": "learning-haskel",
+          "value": "Learning Haskel"
+        },
+        {
+          "depth": 2,
+          "slug": "recommended-resources",
+          "value": "Recommended Resources"
+        },
+        {
+          "depth": 3,
+          "slug": "books",
+          "value": "Books"
+        }
+      ]
+    }
+  }
+}
